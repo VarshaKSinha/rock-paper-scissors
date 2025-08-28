@@ -1,0 +1,60 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# Javadoc
+/doc/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.targetpom.xml.versions
+pom.xml.releaseBackup
+pom.xml.next
+
+# Gradle
+.gradle/
+build/
+!/build/dependencies/
+!/build/test-results/
+!/build.tmp/
+!/build/reports/
+!/build/jacoco/
+
+# IDE-specific files
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumb.db
+
+# Misc
+# Local configuration files
+/src/main/resources/config.properties
+/src/main/resources/application.properties
+
+# Test Coverage reports
+/target/site/jacoco/
+/target/test-coverage/
+
+# This is a specific log file created by some VS Code extensions
+.vscode-test/
