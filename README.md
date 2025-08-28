@@ -13,7 +13,7 @@ It allows a player to compete against the computer.<br><br>
   #### How to Run
   1. Clone the reository:
      ```bash
-     git clone [https://github.com/VarshaKSinha/rock-paper-scissors.git]
+     git clone [https://github.com/VarshaKSinha/rock-paper-scissors.git](https://github.com/VarshaKSinha/rock-paper-scissors.git)
      cd rock-paper-scissors
      ```
   2. Compile the code:
@@ -22,7 +22,7 @@ It allows a player to compete against the computer.<br><br>
      ```
   3. Run the application:
      ```bash
-     javac Main
+     java Main
      ```
 
   ### Author
